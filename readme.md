@@ -6,7 +6,6 @@ Technologies: ES6 JavaScript Modules, Axios, Google Maps API with Pug Templating
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img src="'https://s15.postimg.cc/k264vg7cn/forkify.png">
 </p>
-
 
