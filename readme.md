@@ -6,6 +6,6 @@ Technologies: ES6 JavaScript Modules, Axios, Google Maps API with Pug Templating
 
 
 <p align="center">
-  <img src="'https://s15.postimg.cc/k264vg7cn/forkify.png">
+  <img src="'https://s15.postimg.cc/68hs6eerf/forkify.png">
 </p>
 
